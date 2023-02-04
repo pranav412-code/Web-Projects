@@ -1,0 +1,334 @@
+<html>
+
+<head>
+  <title>Faith Forum</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Rubik&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Roboto+Condensed:wght@700&family=Rubik&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+  </style>
+</head>
+<header>
+  <img id="rlogo" src="https://i.postimg.cc/TYmmhSC8/Logo-of-G-H-Raisoni-College-of-Engineering-Nagpur-1-removebg-preview.png" alt="">
+  <h1>
+    G.H. Raisoni College of Engineering, <br>Nagpur
+  </h1>
+  <img id="ralogo" src="https://i.postimg.cc/Kc33swXK/download-1-removebg-preview.png" alt="">
+</header>
+<ul>
+  <li> <a href="#aboutus">About us</li></a>
+  <li><a href="#events">Events</li></a>
+  <li><a href="#photos">Gallery</li></a>
+  <li><a href="#contactus">Contact us</li></a>
+</ul>
+<div class="heading_image">
+  <img class="college" alt="GHRCE" src="https://i.postimg.cc/RVtxC9X6/slide-1.webp">
+</div>
+<div id="aboutus">
+  <h2>THE FAITH FORUM</h2>
+  <h3>About us</h3>
+  <div id="description">
+    <img class="faith" alt="faith_forum" src="https://i.postimg.cc/T299YZ5v/Faith-1-removebg-preview-1.png">
+    <p class="description">FAITH, which stands for Forum for All In technical Harmony is a forum to nurture the talent of students and to furnish them. There are 1080 students in first year of GHRCE. To provide these students a atomsphere to grow and to accomplish milestones in college, We the Faith forum comprises 6 different committees i.e. Technical, Cultural, Sports, Discipline, Anchoring and Magazine which are supervised by 3 Vice Presidents. To take care of all the stuff going on in forum we have Back End Secretary and lastly the heart of this is SIR! President.<br></p>
+  </div>
+</div>
+<img class="ioh" src="">
+<div id="events">
+  <h3>Events</h3>
+  <p id="about"> Under the guidance of Faith Incharge-GHRCE, our forum Faith conduct events, manage the entire curriculum of first year and enhance the quality experience of first year department.</p>
+  <div id="event1">
+    <h5>Photography and reel making competition</h5>
+    <p class="event1"> The first event, faith forum conducted was Photography and reel making competition under Astronomy Club from 1st to 4th May. Students were told to click a picture abstract with a quaote. To make event more fruitful, variety of content such as professional reels, vlogging experience from students had been collected. Winners were felicited with exciting gift hampers.</p>
+    <div class="eventpic1">
+      <img id="pic1" alt="" src="https://i.postimg.cc/HWwNGp7R/event.jpg">
+      <img id="pic2" alt="" src="https://i.postimg.cc/j5pYMvmf/Whats-App-Image-2022-06-18-at-11-01-13-PM-2.jpg">
+      <img id="pic3" alt="" src="https://i.postimg.cc/htWhX1Gf/Whats-App-Image-2022-06-18-at-11-01-14-PM.jpg">
+    </div>
+  </div>
+  <div id="event2">
+    <h5>The Quiz Contest</h5>
+    <p class="event2"> From 27th May-28th May Faith Forum Conducted Quiz Contest. The event had been conducted in 2 rounds, 1st round was conducted on 27th and 2nd round on 28th May. Only Qualified participants of 1st round were eligible for 2nd round. About 6 teams were qualified for 2nd round and a the end 2 teams were win the quiz who were felicited from <b>Dean Madam FY</b> and <b>Faith Incharge</b>.</p>
+    <div class="eventpic2">
+      <img id="pic1" alt="" src="https://i.postimg.cc/s2JJ62L4/Whats-App-Image-2022-06-18-at-10-55-04-PM.jpg">
+      <img id="pic2" alt="" src="https://i.postimg.cc/2Sym8qQV/Whats-App-Image-2022-06-18-at-10-55-05-PM.jpg">
+      <img id="pic3" alt="" src="https://i.postimg.cc/DwRz9Q92/Whats-App-Image-2022-06-18-at-10-55-05-PM-1.jpg">
+    </div>
+  </div>
+  <div id="event3">
+    <h5>Mind Debugger</h5>
+    <p class="event3"> Another stepping stone towards enhancing the youth of today and the future of tomorrow. A four day workshop<b> " Mind Debugger "</b> has been conducted from 6th July to 9th of July at G.H. Raisoni College of Engineering, Nagpur. This workshop was scheduled to train young minds and give them a better view of the numerous career options regardless of programming.It was organised by the organizing team of first year forum FAITH.<br><br>The seminar was delivered by <b>Professor Pranay Saraf, Incharge Alumni Cell, GHRCE</b>.The areas of focus covered by Pranay Sir were <b>Full Stack Development, essentials of Programming, Deep knowledge of coding Languages</b>.It has been an interactive session where students reciprocated with the faculty where none of their questions were left unanswered.Under the guidance of <b>Dr Sachin Untawale, Director, GHRCE</b> this session took place successfully.<b>Dr. Bhavana Butey, Dean First Year</b> also attended the training session as an active listener.Technical Secretary Mst Adish Bahatkar took charge of the event as a team manager with the effective leadership of Forum President Mst Aman Brijbhushan Tiwari.
+    </p>
+    <div class="eventpic3">
+      <img id="eventpic3" alt="" src="https://i.postimg.cc/8Pq1Z8sX/top.jpg">
+    </div>
+  </div>
+  <div id="event4">
+    <h5>The Raisoni Darbar</h5>
+    <p class="event4"> 1st Year Faith Forum has organized an event <b>‘Raisoni’s Darbar’</b> on 16th July 2022 , under the guidance of <b>Ms. Sindhu Panikar</b>. The event was unique in itself because it was held for the first time in this year.<br><br>
+      The event was divided in three rounds. Rules and regulations of the event were explained at the beginning .The first round of the competition was <b>‘Speech Maker’</b>. In this round, the participants were free to choose their topic, to build up their confidence language was not a barrier in this round. English was compulsory with either Hindi or Marathi. Each participant had one minute to showcase their skills. Out of 60+ students 12 students qualified this round wisely.<br><br>
+      The second rounds was <b>‘Tug of Speech War’</b>. For this round, four teams of three students were made. Two team had a single topic. Where one was a ‘for’ and the other was ‘against’ team. Each team member had one minute to speak, and they were examined individually, out of these six students were selected for the final round.<br><br>
+      The 3rd Round (final round) was one of the most awaited round for our participants, and that was <b>‘Raisoni’s Got Speaker’</b>. Each one of the six participants had to elaborate their thoughts on either an image or a video individually. English was mandatory for this round and the time limit was 2 minutes per participant.<br><br>
+      While the evaluation was going on, in order to maintain the spirit of the audience we had an audience round.<br><br>
+      A moment later, we got our winner: <b>Parth Kanojiya</b> from CSE Cybersecurity department.<br><br>
+      Runner up: <b>Karan Pandey</b> from CSE Cybersecurity department
+      The President of First Year Faith Forum Aman Tiwari gave vote of thanks to our respected judges, teachers, audience, participants and other helping hands.
+      The event was concluded by giving respect to our nation, by reciting the National Anthem.<br><br>
+      A special mention to our respected <b>Communication Skill Trainer, Ms. Sindhu Panikar</b> for being the catalyst that stimulated us to do our best and standing as pillars of strength .With a deep sense of appreciation we thank our respected teacher,<b> Ms. Sindhu Panikar , Ms. Pallavi Deshpande , Ms. Smita Dhote</b> .
+    </p>
+    <div class="eventpic4">
+      <img id="eventpic4" alt="" src="https://i.postimg.cc/cCYjFzvw/lop.png">
+      <img id="eventpic4" alt="" src="https://i.postimg.cc/J48m93RM/cor.png">
+    </div>
+  </div>
+</div>
+<div class="message">
+  <h4>President's message:</h4>
+  <div class="p">
+    <img class="president" src="https://i.postimg.cc/sXKNbmMx/Whats-App-Image-2022-06-27-at-12-06-07-AM.jpg" alt="" />
+    <p class="aman">I am here, not only for the position, but also to grab the opportunity to be friends with everyone. And like a good friend, I promise to be transparent and honest with you about the challenges that our school faces. I will do my best to communicate with you at all times possible and keep you informed. As your friend, I will be asking your open arms to help me accomplish my visions for our First Year Department this year. No one person has all the answers or can do all the work. A chain is only as strong as its weakest link. Together, we must be strong and cooperate to achieve our endeavours.<br><br>
+      Mst. Aman Tiwari<br>President<br>Faith Forum</p>
+  </div>
+</div>
+<div class="MOP">
+  <h3>Gallery</h3>
+  <div id=photos>
+    <div id="gallary">
+      <img class="image" alt="" src="https://i.postimg.cc/zXHYDvFD/Whats-App-Image-2022-06-27-at-12-06-07-AM-3.jpg">
+      <img class="image" alt="" src="https://i.postimg.cc/W4n1dRD4/Whats-App-Image-2022-06-27-at-12-06-07-AM-1.jpg">
+      <img class="image" alt="" src="https://i.postimg.cc/nhmscwYs/Whats-App-Image-2022-06-27-at-12-06-07-AM-2.jpg">
+      <img alt="" class="image" src="https://i.postimg.cc/Y2fBkNWp/Whats-App-Image-2022-06-27-at-12-04-10-AM.jpg">
+    </div>
+  </div>
+</div>
+<div id="contactus">
+  <p class="connect">
+    Follow Us On:
+  </p>
+  <a href=""><img class="insta" alt="" src="https://i.postimg.cc/tTC75v3g/Instagram-logo-transparent-PNG-removebg-preview.png"></a>
+  <a href=""><img class="youtube" alt="" src="https://i.postimg.cc/7h7S0Q1W/web-189206689-removebg-preview.png"></a>
+</div>
+
+</html>
+
+html {
+  background-color: #fbe8a5;
+  background: rgba(255,226,167,0.8)
+  background: #FFF984;
+  background: -moz-linear-gradient(45deg, #FFF984 0%, #FFD365   40%, #FF903F 100%);
+  background: -webkit-linear-gradient(45deg, #FFF984 0%,         #FFD365 40%, #FF903F 100%);
+  background: linear-gradient(45deg, #FFF984 0%, #FFD365 40%,   #FF903F 100%);
+}
+#rlogo {
+  width: 140px;
+  height: 140px;
+}
+h1 {
+  align-content: center;
+  padding: 20px 20px 20px 60px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+}
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.college {
+  width: 50rem;
+  padding: 10px 10px 20px 245px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #fd2b19;
+  border-radius: 5px;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  width: 100%;
+  height: 50px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Cairo', sans-serif;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #fc8075;
+}
+h2 {
+  font-size: 50px;
+  text-align: center;
+  color: #030b85;
+}
+p.description {
+  font-size: 21px;
+  text-align: justify;
+  font-family: "Rubik", sans-serif;
+}
+#events {
+  font-size: 20px;
+  text-align: justify;
+}
+#contactus {
+  display: flex;
+  background-color: #f8ebd1;
+  padding: 1px 15px 5px 15px;
+  border-radius: 5px;
+  align-items: center;
+  border-radius: 20px;
+}
+.insta {
+  width: 50px;
+  height: 50px;
+}
+.youtube {
+  width: 50px;
+  height: 50px;
+}
+#aboutus {
+  background-color: #f8ebd1;
+  padding: 5px 10px 5px 10px;
+  border-radius: 20px;
+}
+h3 {
+  font-size: 25px;
+  color: #030b85;
+  font-family: "Libre Baskerville", serif;
+  border-top: 2px solid #FF7B1F;
+  padding: 5px 5px 5px 5px;
+  border-radius: 7px;
+  -webkit-box-shadow: 9px 11px 15px 5px #FF7B1F; 
+  box-shadow: 9px 11px 15px 5px #FF7B1F;
+  background: #FFFFFF;
+}
+h5 {
+  font-size: 25px;
+}
+
+body#tinymce {
+background: #FFFFFF
+}
+body#tinymce {
+background: #FFFFFF
+  
+}
+#events {
+  padding: 50px 15px 20px 15px;
+  line-spaces: ;
+  font-family: "Rubik", sans-serif;
+  font-size: 20px;
+  border-bottom: 2px dotted #000000;
+  margin-bottom: 100px;
+  border-radius: 20px;
+}
+p.connect {
+  font-size: 30px;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.eventpic1 {
+}
+.president {
+  width: 15rem;
+  height: 21rem;
+  padding: 20px 1rem 20px 7rem;
+}
+.p {
+  display: flex;
+  justify-content: center;
+  border: 1px dotted #aeaeac;
+  margin: 10px 10rem 10px 10rem;
+  -webkit-box-shadow: -7px 5px 5px 2px #FB9954; 
+  box-shadow: -7px 5px 5px 2px #FB9954;
+  border-radius: 15px;
+}
+.aman {
+  text-align: left;
+  padding: 3rem 2rem 0px 1rem;
+}
+
+#gallary {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin: 25px 50px 75px 100px;
+  padding: 0px 100px 0px 10px;
+}
+.image {
+  width: 30%;
+  padding: 0px 0px 20px 20px;
+  position: center;
+}
+img {
+}
+
+.message {
+  background-color: #f8ebd1;
+  padding: 5px 15px 5px 15px;
+  font-family: "PT Sans", sans-serif;
+  border-radius: 20px;
+}
+
+h4 {
+  font-size: 20px;
+  border-bottom: 2px solid #fb9954;
+  color: #030b85;
+  font-family: "Libre Baskerville", serif;
+}
+.MOP {
+  padding: 70px 10px 0px 10px;
+  border-bottom: 2px dotted #000000;
+  margin-bottom: 70px;
+  border-radius: 20px;
+}
+
+#description {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  padding: 20px 1rem 20px 7rem;
+}
+p.event3 {
+  font-size: 21px;
+  text-align: justify;
+  font-family: "Rubik", sans-serif;
+}
+.eventpic4 {
+  padding: 0px 20px 20px 20px;
+  display: block;
+  justify-content: center;
+  align-content: stretch;
+}
+#event1 {
+  border-bottom: 2px dotted #afafaf;
+  padding-bottom: 25px;
+}
+#event2 {
+  border-bottom: 2px dotted #afafaf;
+  padding-bottom: 25px;
+}
+#event3 {
+  border-bottom: 2px dotted #afafaf;
+  padding-bottom: 25px;
+}
